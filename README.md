@@ -1,6 +1,9 @@
 ## Hi there! 👋
 
-I'm **Satyaprasad Dangeti**, a passionate developer eager to innovate and contribute to exciting projects. Let's connect and create something amazing together!
+Hi, I’m Satyaprasad Dangeti — a DevOps Engineer passionate about building scalable and reliable systems.
+ Skilled in Kubernetes, Docker, CI/CD, Cloud Platforms, and Monitoring Tools, I enjoy automating workflows and optimizing deployments.
+ Always eager to innovate, collaborate, and contribute to impactful projects.
+ Let’s connect and create something amazing in the world of DevOps & Cloud Engineering!
 
 ## About Me
 
