@@ -20,9 +20,11 @@
 
 
 
+---
 
 ![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu,gcp,grafana,python) 
 
+---
 <div align="left">
   <tr>
     <td><code><img width="45" style="background:white; padding:5px; border-radius:8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sonarqube.png" alt="SonarQube" title="SonarQube"/></code></td>
