@@ -10,7 +10,7 @@
 ## Skills & Technologies
 
 
-- **Cloud Platforms:** AWS | Azure | GCP  
+- **Cloud Platforms:** AWS | Azure  
 - **Containers & Orchestration:** Docker | Kubernetes | OpenShift  
 - **CI/CD:** Jenkins | GitHub Actions | GitLab CI | ArgoCD  
 - **Infrastructure as Code:** Terraform | Ansible | Helm   
@@ -66,9 +66,6 @@
 
 ---
 
-## Latest Blog Posts
-
-No blog posts available yet. Stay tuned!
 
 ## Connect with Me
 
@@ -83,6 +80,6 @@ No blog posts available yet. Stay tuned!
 <a href="satyaprasaddangeti5@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="40" />
 </a>
-<a href="[https://github.com/satyaprasaddangeti/satyaprasaddangeti">
+<a href="https://github.com/satyaprasaddangeti/satyaprasaddangeti">
   <img src="https://skillicons.dev/icons?i=github" width="40" />
 </a>
