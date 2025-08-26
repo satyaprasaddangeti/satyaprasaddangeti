@@ -1,13 +1,11 @@
 ## Hi there! 👋
 
-Hi, I’m Satyaprasad Dangeti — a DevOps Engineer passionate about building scalable and reliable systems.
+Hi, I’m Satyaprasad Dangeti 
+ DevOps Engineer passionate about building scalable and reliable systems.
  Skilled in Kubernetes, Docker, CI/CD, Cloud Platforms, and Monitoring Tools, I enjoy automating workflows and optimizing deployments.
  Always eager to innovate, collaborate, and contribute to impactful projects.
  Let’s connect and create something amazing in the world of DevOps & Cloud Engineering!
 
-## About Me
-
-I'm a software developer with a keen interest in creating efficient and scalable applications. Currently, I have a few public repositories showcasing my work and I am always looking to learn and improve my skills.
 
 ## Skills & Technologies
 
