@@ -8,7 +8,7 @@ I'm a software developer with a keen interest in creating efficient and scalable
 
 ## Skills & Technologies
 
-docker,git,github,jenkins,kubernetes
+[![My Skills](https://skillicons.dev/icons?i=azure,elasticsearch,docker)](https://skillicons.dev)
 
 ## Top Projects
 
