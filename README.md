@@ -1,13 +1,14 @@
-## Hi there! 👋
+## Hi there! 👋  I’m Satyaprasad Dangeti 
 
-Hi, I’m Satyaprasad Dangeti 
  DevOps Engineer passionate about building scalable and reliable systems.
  Skilled in Kubernetes, Docker, CI/CD, Cloud Platforms, and Monitoring Tools, I enjoy automating workflows and optimizing deployments.
  Always eager to innovate, collaborate, and contribute to impactful projects.
  Let’s connect and create something amazing in the world of DevOps & Cloud Engineering!
 
+---
 
 ## Skills & Technologies
+
 
 - **Cloud Platforms:** AWS | Azure | GCP  
 - **Containers & Orchestration:** Docker | Kubernetes | OpenShift  
@@ -16,6 +17,9 @@ Hi, I’m Satyaprasad Dangeti
 - **Monitoring & Logging:** Prometheus | Grafana | ELK | Loki  
 - **Scripting & Programming:** Python | Bash | Go | YAML  
 - **Version Control & Collaboration:** Git | GitHub | GitLab | Bitbucket
+
+
+
 
 ![My Skills](https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,git,github,terraform,githubactions,mysql,linux,aws,bash,bitbucket,elasticsearch,gitlab,go,jenkins,kafka,maven,nginx,openshift,prometheus,redhat,ubuntu,gcp,grafana,python) 
 
@@ -30,6 +34,7 @@ Hi, I’m Satyaprasad Dangeti
   </tr>
 </div>
 
+---
 
 ## Top Projects
 
@@ -40,6 +45,8 @@ Hi, I’m Satyaprasad Dangeti
 - [DevOps](https://github.com/satyaprasaddangeti/DevOps) - A repository focused on DevOps practices. 
   ⭐ Stars: 0 | 🗂️ Forks: 0 | 🔧 Language: Not Specified
 
+---
+
 ## GitHub Stats
 
 📦 Public Repositories: 4  
@@ -47,10 +54,14 @@ Hi, I’m Satyaprasad Dangeti
 👤 Following: 0  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyaprasaddangeti&show_icons=true&theme=radical)
 
+---
+
 ## Recent Activity
 
 - Forked [https-github.com-iam-veeramalla-devops-cloud-interview-guide](https://github.com/satyaprasaddangeti/https-github.com-iam-veeramalla-devops-cloud-interview-guide) on Aug 20, 2025.  
 - Created repository [DevOps](https://github.com/satyaprasaddangeti/DevOps) on Jun 1, 2025.
+
+---
 
 ## Latest Blog Posts
 
@@ -58,4 +69,17 @@ No blog posts available yet. Stay tuned!
 
 ## Connect with Me
 
-{}
+- 💼 [LinkedIn](https://www.linkedin.com/in/satya-prasad-dangeti/)
+- - 📫 Email: satyaprasaddangeti5@gmail.com
+
+
+
+<a href="https://www.linkedin.com/in/satya-prasad-dangeti/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+</a>
+<a href="satyaprasaddangeti5@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+</a>
+<a href="[https://github.com/satyaprasaddangeti/satyaprasaddangeti">
+  <img src="https://skillicons.dev/icons?i=github" width="40" />
+</a>
