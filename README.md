@@ -8,7 +8,13 @@ I'm a software developer with a keen interest in creating efficient and scalable
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=azure,elasticsearch,docker)](https://skillicons.dev)
+- **Cloud Platforms:** AWS | Azure | GCP  
+- **Containers & Orchestration:** Docker | Kubernetes | OpenShift  
+- **CI/CD:** Jenkins | GitHub Actions | GitLab CI | ArgoCD  
+- **Infrastructure as Code:** Terraform | Ansible | Helm   
+- **Monitoring & Logging:** Prometheus | Grafana | ELK | Loki  
+- **Scripting & Programming:** Python | Bash | Go | YAML  
+- **Version Control & Collaboration:** Git | GitHub | GitLab | Bitbucket  
 
 ## Top Projects
 
