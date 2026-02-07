@@ -1,0 +1,4 @@
+kubectl get po
+kubectl delete -f 
+kubectl apply -f 
+kubectl exec -it bash
