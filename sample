@@ -1,2 +1,2 @@
 kubectl get po 
-kubectl apply -f backend
+kubectl apply -f database
