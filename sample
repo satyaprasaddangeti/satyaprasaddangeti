@@ -1,5 +1,5 @@
 kubectl get po 
-kubectl apply -f database
+kubectl apply -f frontend
 
 
 
