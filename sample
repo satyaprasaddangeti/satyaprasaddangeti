@@ -1,5 +1,6 @@
 kubectl get po 
 kubectl apply -f frontend
+arun rajesh kadali 
 
 
 
