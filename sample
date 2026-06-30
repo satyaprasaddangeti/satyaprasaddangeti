@@ -1,2 +1,2 @@
-kubectl get po
-
+kubectl get po 
+kubectl apply -f frontend
