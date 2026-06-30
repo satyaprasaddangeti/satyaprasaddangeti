@@ -158,6 +158,7 @@ Proofs
 “I know what happens, not how equations work”
 
 
+kubectl get po
 
 PREREQUISITE 3: Text Processing Fundamentals
 
