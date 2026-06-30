@@ -1,6 +1,6 @@
 kubectl get po 
 kubectl apply -f backend
-
+durga sudarshan sandeep
 
 
 kubectl get po
