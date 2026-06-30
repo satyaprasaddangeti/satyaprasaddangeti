@@ -1,5 +1,5 @@
 kubectl get po 
-kubectl apply -f frontend
+kubectl apply -f backend
 
 
 
