@@ -1,11 +1,15 @@
 kubectl get po 
 <<<<<<< HEAD
 kubectl apply -f backend
+<<<<<<< HEAD
 =======
 kubectl apply -f frontend
 arun rajesh kadali 
 >>>>>>> frontend
 
+=======
+durga sudarshan sandeep
+>>>>>>> backend
 
 
 kubectl get po
